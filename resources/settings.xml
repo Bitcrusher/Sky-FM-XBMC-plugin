@@ -11,7 +11,9 @@
 		<setting type="lsep" label="30016" />
 	</category>
 	<category label="30002">
-		<setting type="lsep" label="30017" />
+		<setting type="lsep" label="30020" />
+		<setting type="lsep" label="30021" />
+		<setting type="lsep" label="30022" />
 	</category>
 
 <!--
