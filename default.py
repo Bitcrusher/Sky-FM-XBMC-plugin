@@ -48,7 +48,7 @@ __author__       = "Tim C. Steinmetz"
 __url__          = "http://qualisoft.dk/"
 __platform__     = "xbmc media center, [LINUX, OS X, WIN32]"
 __date__         = "3. May 2012"
-__version__      = ADDON..getAddonInfo('version')
+__version__      = ADDON.getAddonInfo('version')
 
 
 
