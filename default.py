@@ -89,7 +89,7 @@ class musicAddonXbmc:
 				account = 'premium'
 		
 			xbmc.log( 'Submitting stats', xbmc.LOGNOTICE )
-			self._httpComm.get('http://stats.qualisoft.dk/?plugin=di&version=' + __version__ + '&account=' + account + '&key=a57ab7ceada3fefeaa70a7136ab05f9af5ebac82')
+			self._httpComm.get('http://stats.qualisoft.dk/?plugin=sky&version=' + __version__ + '&account=' + account + '&key=5a2a72084f40402656555b665a0fdcddbbd87553')
 		
 		xbmc.log( "[PLUGIN] %s v%s (%s)" % ( __plugin__, __version__, __date__ ), xbmc.LOGNOTICE )
 
