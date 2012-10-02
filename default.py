@@ -350,7 +350,7 @@ class musicAddonXbmc:
 			li = xbmcgui.ListItem(label=channelTitle, thumbnailImage=icon)
 
 		li.setProperty("mimetype", 'audio/aac')
-		li.setInfo( type="Music", infoLabels={ "label": channelTitle, "Genre": channelTitle, "Comment": streamDescription, "Size": streamBitrate })
+		li.setInfo( type="Music", infoLabels={ "label": channelTitle, "Genre": channelTitle, "Comment": streamDescription, "Size": (streamBitrate * 1024) })
 		li.setProperty("IsPlayable", "true")
 		li.setProperty("IsLive", "true")
 
