@@ -3,6 +3,13 @@
 - Removed feature
 
 
+31 December 2013 v3.0.0
++ Rewrote whole plugin
++ Threading of playlists parsing to speed up first run and refreshing of playlists - 8 threads
+* Now fully support the new sky.fm design
+- Check-in with stats are gone for now
+
+
 8 December 2012 v2.1.0
 + Added a 4th stream quality option for Premium members: 256k/sec MP3
 + Now using the config.ini file to hopefully streamline the process of updating the di.fm/sky.fm/jazzradio.com plugins
