@@ -274,7 +274,7 @@ class musicAddonXbmc:
             isNew = 1
             self.newChannels += 1
             for c in channelMeta:
-                if channel['channel']['type'] == 'channel' and c['channel']['id'] == channel['id']:
+                if c['channel']['type'] == 'channel' and c['channel']['id'] == channel['id']:
                     asset = c['channel']['asset_url']
             self.getChannelAsset(str(channel['id']), asset)
 
