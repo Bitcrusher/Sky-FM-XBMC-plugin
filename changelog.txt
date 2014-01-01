@@ -3,10 +3,8 @@
 - Removed feature
 
 
-
 1. January 2014 v3.0.1
 * Cache file pathing on OSes not using *UNIX syntax (Windows)
-
 
 
 31. December 2013 v3.0.0
