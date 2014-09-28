@@ -2,6 +2,13 @@
 * Fixed/improved feature
 - Removed feature
 
+
+
+28. September 2014 v3.0.8
+- Removed all playback features from plugin
++ Added popup dialog, asking user to switch to the RadioTunes plugin
+
+
 24. August 2014 v3.0.7
 * Fixed url for channel asset/graphics
 

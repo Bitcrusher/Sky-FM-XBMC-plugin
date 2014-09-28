@@ -18,7 +18,7 @@
 	<string id="30005">Use 'My favorites' playlist</string>
 	<string id="30013">Stream bitrate</string>
 
-	<string id="30006">About</string>
+    <string id="30006">About</string>
 	<string id="30007">Version</string>
 	<string id="30008">Author</string>
 	<string id="30009">Homepage</string>
@@ -81,5 +81,7 @@
     <string id="30181">Login to sky.fm in your browser and go to 'Manage favorites'</string>
     <string id="30182">or uncheck 'Use my favorites' from this plugins settings</string>
 
-
+    <string id="30201">Sky.fm has changed it's name to RadioTunes</string>
+    <string id="30202">Please download the RadioTunes plugin instead</string>
+    <string id="30203">The Sky.fm plugin is now deprecated</string>
 </strings>
